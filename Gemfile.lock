@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    canvasinput-rails (1.2.7.1)
+    canvasinput-rails (1.2.7.2)
 
 GEM
   remote: https://rubygems.org/
