@@ -7,7 +7,7 @@ The CanvasInput.js library allows you to build and use input fields in an HTML5
 canvas.
 
 You can read more about it here:
-(CanvasInput)[https://goldfirestudios.com/blog/108/CanvasInput-HTML5-Canvas-Text-Input]
+[CanvasInput](https://goldfirestudios.com/blog/108/CanvasInput-HTML5-Canvas-Text-Input)
 
 ## Versioning
 
@@ -44,7 +44,7 @@ Modify your `app/assets/javascript/application.js` file and add this line:
 
 ## Usage
 
-Use according to the documentation provided at (CanvasInput)[https://goldfirestudios.com/blog/108/CanvasInput-HTML5-Canvas-Text-Input]
+Use according to the documentation provided at [CanvasInput](https://goldfirestudios.com/blog/108/CanvasInput-HTML5-Canvas-Text-Input)
 
 ## Development
 
