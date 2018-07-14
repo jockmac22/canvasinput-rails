@@ -1,5 +1,5 @@
 module Canvasinput
   module Rails
-    VERSION = "1.2.7"
+    VERSION = "1.2.7.1"
   end
 end
