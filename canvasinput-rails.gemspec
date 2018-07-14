@@ -1,17 +1,17 @@
 
 lib = File.expand_path("../lib", __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require "canvasinput/rails/version"
+require "canvasinput/version"
 
 Gem::Specification.new do |spec|
   spec.name          = "canvasinput-rails"
-  spec.version       = Canvasinput::Rails::VERSION
+  spec.version       = Canvasinput::VERSION
   spec.authors       = ["Jocko"]
-  spec.email         = ["jocko.macgregor@wowza.com"]
+  spec.email         = ["jocko.macgregor@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{A Rails wrapper for the CanvasInput JS library}
+  spec.description   = %q{}
+  spec.homepage      = ""
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
