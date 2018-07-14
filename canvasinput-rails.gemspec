@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Jocko"]
   spec.email         = ["jocko.macgregor@wowza.com"]
 
-  spec.summary       = %q{}
+  spec.summary       = %q{A Rails wrapper for the CanvasInput JS library.}
   spec.description   = %q{}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/jockmac22/canvasinput-rails"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
