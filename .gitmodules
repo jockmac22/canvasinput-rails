@@ -1,0 +1,3 @@
+[submodule "assets/javascripts/canvas_input"]
+	path = assets/javascripts/canvas_input
+	url = git@github.com:goldfire/CanvasInput.git
